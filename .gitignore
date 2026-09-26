@@ -1,3 +1,16 @@
-
+# private data: facebook exports, chat dumps and the real class names
 *.json
+data/
+names.txt
+
+# generated word clouds (only the demo images in examples/ are committed)
 *.png
+!examples/*.png
+wordclouds/*
+!wordclouds/.gitkeep
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/

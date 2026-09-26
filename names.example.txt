@@ -1,0 +1,14 @@
+# copy this file to names.txt and put your class in it (names.txt is gitignored)
+# one name per line, every name gets boosted so it shows up big in the cloud
+Novak
+Kovac
+Horvath
+Varga
+Toth
+Nagy
+Balaz
+Molnar
+Simko
+Lukac
+Kral
+Urban

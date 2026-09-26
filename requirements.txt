@@ -1,0 +1,4 @@
+wordcloud>=1.9
+numpy
+pillow
+Unidecode
